@@ -1,0 +1,8 @@
+2022-10-06 18:55:51,449 INFO  [Log4jXmlConfigurator] This is an info 
+2022-10-06 18:55:51,451 WARN  [Log4jXmlConfigurator] This is warning 
+2022-10-06 18:55:51,451 ERROR [Log4jXmlConfigurator] This is an error 
+2022-10-06 18:55:51,452 FATAL [Log4jXmlConfigurator] This is a fatal message 
+2022-10-06 18:56:39,312 INFO  [Log4jXmlConfigurator] This is an info 
+2022-10-06 18:56:39,314 WARN  [Log4jXmlConfigurator] This is warning 
+2022-10-06 18:56:39,314 ERROR [Log4jXmlConfigurator] This is an error 
+2022-10-06 18:56:39,315 FATAL [Log4jXmlConfigurator] This is a fatal message 
